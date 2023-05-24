@@ -1,12 +1,10 @@
 .Blogcard{
     height: fit-content;
-    width:fit-content;
-    background-color: rgb(244, 250, 255);
+    width: 100%;
+    background-color: rgb(0, 0, 0);
     padding: 20px;
     display: flex;
     flex-direction: column;
-    flex-basis: 33.33%; /* Each section takes up one-third of the container */
-    flex-wrap: wrap;
     border-radius: 3%;
     gap: 15px;
 }
