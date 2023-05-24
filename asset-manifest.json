@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PycrayAssignment-1/static/css/main.df7f3baa.css",
+    "main.css": "/PycrayAssignment-1/static/css/main.88418222.css",
     "main.js": "/PycrayAssignment-1/static/js/main.a2547653.js",
     "index.html": "/PycrayAssignment-1/index.html",
-    "main.df7f3baa.css.map": "/PycrayAssignment-1/static/css/main.df7f3baa.css.map",
+    "main.88418222.css.map": "/PycrayAssignment-1/static/css/main.88418222.css.map",
     "main.a2547653.js.map": "/PycrayAssignment-1/static/js/main.a2547653.js.map"
   },
   "entrypoints": [
-    "static/css/main.df7f3baa.css",
+    "static/css/main.88418222.css",
     "static/js/main.a2547653.js"
   ]
 }
