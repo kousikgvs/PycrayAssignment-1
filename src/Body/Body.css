@@ -1,0 +1,33 @@
+.Body{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.Heading{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 650;
+}
+
+.SubHeading{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Blogcards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+}
+@media screen and (max-width: 600px) {
+    .Blogcards {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+  }
