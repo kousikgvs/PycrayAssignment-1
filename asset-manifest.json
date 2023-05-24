@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/://kousikgvs.github.io/pycraytask1/static/css/main.aa4d80db.css",
+    "main.js": "/://kousikgvs.github.io/pycraytask1/static/js/main.ea4c0363.js",
+    "index.html": "/://kousikgvs.github.io/pycraytask1/index.html",
+    "main.aa4d80db.css.map": "/://kousikgvs.github.io/pycraytask1/static/css/main.aa4d80db.css.map",
+    "main.ea4c0363.js.map": "/://kousikgvs.github.io/pycraytask1/static/js/main.ea4c0363.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa4d80db.css",
+    "static/js/main.ea4c0363.js"
+  ]
+}
