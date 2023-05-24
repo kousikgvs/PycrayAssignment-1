@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pycraytask/static/css/main.aa4d80db.css",
-    "main.js": "/pycraytask/static/js/main.ea4c0363.js",
-    "index.html": "/pycraytask/index.html",
-    "main.aa4d80db.css.map": "/pycraytask/static/css/main.aa4d80db.css.map",
-    "main.ea4c0363.js.map": "/pycraytask/static/js/main.ea4c0363.js.map"
+    "main.css": "/PycrayAssignment-1/static/css/main.aa4d80db.css",
+    "main.js": "/PycrayAssignment-1/static/js/main.ea4c0363.js",
+    "index.html": "/PycrayAssignment-1/index.html",
+    "main.aa4d80db.css.map": "/PycrayAssignment-1/static/css/main.aa4d80db.css.map",
+    "main.ea4c0363.js.map": "/PycrayAssignment-1/static/js/main.ea4c0363.js.map"
   },
   "entrypoints": [
     "static/css/main.aa4d80db.css",
